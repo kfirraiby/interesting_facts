@@ -5,7 +5,7 @@ from datetime import datetime
 from dateutil.relativedelta import relativedelta
 from googlesearch import search
 
-openai.api_key = "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"
+openai.api_key = " "
 
 
 # get fact from text
